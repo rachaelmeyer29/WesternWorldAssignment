@@ -1,0 +1,34 @@
+{
+    "name": "Raycasting",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "e056fc2c-5dec-457e-98d2-7f07db1cd0d5",
+            "actions": [
+                {
+                    "name": "Collect",
+                    "type": "Button",
+                    "id": "7cc89a8a-279f-46fc-be61-fb0153a9f890",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "18b79c7c-5fd4-4ce7-af79-42616d75d136",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Collect",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
